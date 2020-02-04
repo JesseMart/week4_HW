@@ -1,0 +1,13 @@
+.section{
+    min-height: 350px;
+
+}
+.bg-med{
+    background-color: rgb(190, 181, 181);
+}
+.bg-navbar{
+    background-color: #2a6592;
+}
+.bg-first{
+    background: #7395ae;
+}
